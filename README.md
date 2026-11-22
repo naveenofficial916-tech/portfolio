@@ -33,7 +33,6 @@ Then open http://localhost:5500 in Chrome.
 4. **Achievements** – Honors, awards and credentials:
    - National eMudhra Hackathon 2nd Runner-Up (₹50,000 Cash Prize · Trophy Ceremony Pose)
    - Goethe-Zertifikat A1 German Language Course Completion (Pass with Merit · 86.5%)
-   - Engineering project milestones
 
 Click any project image or certificate inside the room to open the full-screen interactive lightbox.
 

@@ -49,12 +49,10 @@ const R=[
   c:"#d99b16",
   sub:"National hackathons, awards & international credentials",
   d:"Honors, national hackathon podium finishes, and certified international qualifications demonstrating engineering excellence, leadership, and continuous learning.",
-  b:["eMudhra National Hackathon 2nd Runner-Up","₹50,000 Cash Prize Winner","Goethe-Zertifikat A1 German Language (86.5%)","Campus Network Attack Graph Engineering","Enterprise Legacy Code Modernization"],
+  b:["eMudhra National Hackathon 2nd Runner-Up","₹50,000 Cash Prize Winner","Goethe-Zertifikat A1 German Language","Scored 86.5/100 (Sehr Gut · Pass with Merit)","National & International Recognition"],
   p:[
     ["National Hackathon Podium","eMudhra Hackathon 2nd Runner-Up","National Hackathon · ₹50,000 Cash Prize · Team Innovativezzz","Secured 2nd Runner-Up at the prestigious National eMudhra Hackathon with project OptiPilot. Designed and built an intelligent autonomous system that solves critical operational hurdles. Won ₹50,000 cash prize and national recognition.","Naveenkumar · Holding National Trophy","assets/achievements/emudhra-hackathon-trophy-16x10.jpg","assets/achievements/emudhra-hackathon-trophy.jpg"],
-    ["International Certification","Goethe-Zertifikat A1: Start Deutsch 1","Goethe-Institut / Max Mueller Bhavan Chennai · 86.5/100 (Sehr Gut)","Successfully completed and certified in German Language Level A1 from Goethe-Institut with an outstanding score of 86.5/100 (Prädikat: Sehr Gut / Pass with Merit), demonstrating high multilingual and international communication proficiency.","Goethe-Institut Certified · Sehr Gut","assets/achievements/goethe-a1-german-certificate.jpg"],
-    ["Engineering Achievement","Attack Path Prediction for Campus Network","Cybersecurity & Graph Intelligence Milestone","Designed and implemented graph-based vulnerability prediction and prioritized cybersecurity remediation for university networks, presented at SRM Valliammai Engineering College.","Campus Network Cybersecurity","assets/projects/attack-path-prediction.jpg"],
-    ["Engineering Achievement","Legacy Code Modernization System","Enterprise Cloud Data Engineering Milestone","Engineered and validated an automated legacy-to-modern data pipeline using Databricks and PySpark to modernize legacy systems and reduce technical debt.","Enterprise Modernization Architecture","assets/projects/legacy-code-modernization.jpg"]
+    ["International Certification","Goethe-Zertifikat A1: Start Deutsch 1","Goethe-Institut / Max Mueller Bhavan Chennai · 86.5/100 (Sehr Gut)","Successfully completed and certified in German Language Level A1 from Goethe-Institut with an outstanding score of 86.5/100 (Prädikat: Sehr Gut / Pass with Merit), demonstrating high multilingual and international communication proficiency.","Goethe-Institut Certified · Sehr Gut","assets/achievements/goethe-a1-german-certificate.jpg"]
   ]
 }
 ];
@@ -174,8 +172,9 @@ $$("[data-go]").forEach(a=>{
 const roles=[
   "Data Analyst",
   "UI/UX Designer",
-  "AI & Data Engineer",
-  "Cybersecurity Innovator"
+  "Cloud Engineer",
+  "Website Developer",
+  "Video Editor"
 ];
 let ri=0,busy=false;
 const rc=$("#role");
